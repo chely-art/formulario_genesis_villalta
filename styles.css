@@ -61,7 +61,7 @@ input[type="file"] {
     background-color: #13e5ec; 
     border: 1px solid #475569;
     border-radius: 6px;
-    color: #f8fafc;
+    color: #010b14;
     font-size: 15px;
     transition: border-color 0.2s, box-shadow 0.2s;
 }
